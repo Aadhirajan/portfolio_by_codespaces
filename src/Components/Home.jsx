@@ -35,7 +35,7 @@ const Home = ({ name, title }) => {
           top: "5rem",
           left: "2rem",
           width: "17rem",
-          color: "white"
+          color: "white",
         }}
       >
         <h1>{name}</h1>
